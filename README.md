@@ -1,6 +1,6 @@
 # atri_restaurant_site
 
-TO run Project : 
+To run Project : 
 ```
 venv\scripts\activate
 atri start
