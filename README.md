@@ -2,6 +2,7 @@
 
 To run Project : 
 ```
-venv\scripts\activate
+pipenv shell
+pip install atri==0.0.78
 atri start
 ```
